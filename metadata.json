@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Ratio Converter",
+  "description": "An innovative photo aspect ratio converter that uses generative AI to seamlessly fill in the empty areas created after conversion, enhancing your images effortlessly.",
+  "requestFramePermissions": []
+}
